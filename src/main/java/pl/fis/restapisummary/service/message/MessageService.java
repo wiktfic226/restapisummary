@@ -1,4 +1,4 @@
-package pl.fis.restapisummary.service;
+package pl.fis.restapisummary.service.message;
 
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
