@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import pl.fis.restapisummary.service.MessageService;
 
-import java.security.MessageDigest;
 
 @RestController
 @RequestMapping(path = "/api/decimal")
